@@ -1,6 +1,6 @@
-# 原型预览（PrototypeView）
+# 云雀音乐（PrototypeView）
 
-把 Axure 原型分享页打包成 iOS App：内置 WKWebView，打开即加载
+把 Axure 原型「云雀音乐」的分享页打包成 iOS App（桌面显示名：云雀音乐）：内置 WKWebView，打开即加载
 https://www.axureshow.com/project/R6MecepB/
 底部工具栏：后退 / 前进 / 刷新 / 回到原型首页 / 用 Safari 打开。
 
